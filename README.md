@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @danielmaio26
-- 👀 I’m interested in ... live from my work in web development
-- 🌱 I’m currently learning ... HTML, CSS, JS, Git/GitHub, Docker, MySQL, etc...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Oi, sou @danielmaio26
+- 👀 Estou interessado em viver do meu trabalho em desenvolvimento web.
+- 🌱 Atualmente estou aprendendo HTML, CSS, JS, Git/GitHub, Docker, MySQL, etc...
+- 💞️ Procuro colaborar em projetos de criação de sites
+- 📫 Como me contatar: www.wasabidev.com.br
+
+
+
 
 <!---
 danielmaio26/danielmaio26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
