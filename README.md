@@ -1,8 +1,8 @@
-- 👋 Oi, sou @danielmaio26
-- 👀 Estou interessado em viver do meu trabalho em desenvolvimento web.
-- 🌱 Atualmente estou aprendendo HTML, CSS, JS, Git/GitHub, Docker, MySQL, etc...
-- 💞️ Procuro colaborar em projetos de criação de sites
-- 📫 Como me contatar: www.wasabidev.com.br
+- 👋 Hello, i am @danielmaio26
+- 👀 my goal is to live from my work as a web developer.
+- 🌱 I am currently perfecting my knowledge of HTML, CSS, JS, Git/GitHub, Docker, MySQL, etc...
+- 💞️ I love collaborating on quality website creation projects.
+- 📫 I can be reached at: www.wasabidev.com.br
 
 
 
